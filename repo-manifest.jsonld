@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google/flax/commit/41deea36bd06c735c65b6b480a111bc1a2174b5d",
       "git:hexsha": "41deea36bd06c735c65b6b480a111bc1a2174b5d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/google/flax/commit/d59410b58933f7f821ce0449401d6f2d7e2043ff",
